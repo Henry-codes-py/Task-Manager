@@ -1,0 +1,59 @@
+Total number of users registered: 8
+Total number of tasks generated: 11
+
+User: admin
+Total tasks assigned: 1
+Percentage of total tasks: 9.09%
+Percentage of tasks completed: 100.00%
+Percentage of tasks incomplete: 0.00%
+Percentage of tasks overdue: 0.00%
+
+User: henry
+Total tasks assigned: 3
+Percentage of total tasks: 27.27%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 33.33%
+
+User: thomas
+Total tasks assigned: 1
+Percentage of total tasks: 9.09%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 100.00%
+
+User: liv
+Total tasks assigned: 1
+Percentage of total tasks: 9.09%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 0.00%
+
+User: rachel
+Total tasks assigned: 1
+Percentage of total tasks: 9.09%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 100.00%
+
+User: Alex
+Total tasks assigned: 1
+Percentage of total tasks: 9.09%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 0.00%
+
+User: Toby
+Total tasks assigned: 0
+Percentage of total tasks: 0.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 0.00%
+Percentage of tasks overdue: 0.00%
+
+User: lucas
+Total tasks assigned: 3
+Percentage of total tasks: 27.27%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 100.00%
+

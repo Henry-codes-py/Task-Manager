@@ -1,0 +1,11 @@
+henry;code your project;spend 30 minutes on your capstone;2024-11-11;2024-03-29;No
+henry;coding;spend 30 minutes coding;2024-11-12;2024-03-29;No
+henry;continue coding;add 3 comments to your code;2021-11-11;2024-03-29;No
+thomas;clean room;hoover and tidy;2021-11-11;2024-03-29;No
+admin;check vm is working;troubleshoot code;2021-11-11;2024-03-29;Yes
+liv;create a website;write some html pseudocode;2024-11-11;2024-03-29;No
+rachel;pull request;please generate a pull request on your github;2022-11-11;2024-03-29;No
+Alex;Study;study python for 15 minutes;2025-11-11;2024-03-29;No
+lucas;eat breakfast;chew;2021-11-11;2024-03-30;No
+lucas;test completion;add yes to the end of the date to test it can be marked as completed;2021-11-11;2024-03-30;No
+lucas;test your code;see if we have an option to input a completetion ;2021-11-11;2024-03-30;No
